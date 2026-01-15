@@ -7,4 +7,4 @@ It includes:
 - Images with `<figure>` and `<figcaption>`.  
 - Semantic and accessible HTML.
 
-You can view it online by opening `index.html`.
+
